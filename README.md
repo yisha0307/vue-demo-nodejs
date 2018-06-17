@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+master -- MAIN
+test -- for some experiments
+
 ## Build Setup
 
 ``` bash
